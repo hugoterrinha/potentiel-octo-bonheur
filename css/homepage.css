@@ -1,0 +1,50 @@
+body{
+    background-image:  url("../img/1.png");
+    background-repeat : no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+/*page d'acceuil*/
+
+h1{
+    text-align: center;
+    padding: 150px 100px 30px 100px;
+    font-size: 100px;
+}
+
+.center p { 
+    
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    }
+ 
+#bold {
+    font-weight: bold;
+    color: white;
+}
+
+.button-more{
+    border: 5px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 14px;
+    font-size: 20px;
+    margin: 150px;
+    background-color: rgb(252, 252, 14);
+    margin-bottom: 300px;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.button-more:hover{
+    background-color: black;
+    color: white;
+
+}
+
+
+

@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 150px;
+}
+
+.text{
+    color: white;
+    padding: 80px;
+
+}
+.main img{
+    width: 350px;
+    height: auto;
+    padding: 80px;
+}
+
+
+
+.text h3{
+    padding: 0 30px 30px 0;
+    font-size: 35px;
+}
+
+.text p{
+    padding: 0 30px 30px 0;
+    opacity: 0.75;
+    text-align: justify;
+}
+
+.pdf{
+    border: 1px white solid;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 100px;
+}
+
+.pdf:hover{
+    background-color: white;
+    color:black
+}
+
+.img_center{
+    text-align: center;
+}
